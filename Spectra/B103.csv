@@ -1,0 +1,2 @@
+ra,dec,err_maj,err_min,err_ang,designation,j_m,j_cmsig,j_msigcom,j_snr,h_m,h_cmsig,h_msigcom,h_snr,k_m,k_cmsig,k_msigcom,k_snr,ph_qual,rd_flg,bl_flg,cc_flg,ndet,gal_contam,mp_flg,dist,angle,j_h,h_k,j_k
+13.768903,-72.777061,0.09,0.07,2,00550453-7246374,14.518,0.03,0.032,56.3,14.57,0.049,0.05,22.2,14.58,0.087,0.088,12.4,AAA,222,111,000,662604,0,0,0.127062,208.564946,-0.052,-0.01,-0.062

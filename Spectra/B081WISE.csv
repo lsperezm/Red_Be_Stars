@@ -1,0 +1,2 @@
+designation,ra,dec,sigra,sigdec,sigradec,w1mpro,w1sigmpro,w1snr,w1rchi2,w2mpro,w2sigmpro,w2snr,w2rchi2,w3mpro,w3sigmpro,w3snr,w3rchi2,w4mpro,w4sigmpro,w4snr,w4rchi2,nb,na,w1sat,w2sat,w3sat,w4sat,pmra,sigpmra,pmdec,sigpmdec,cc_flags,ext_flg,var_flg,ph_qual,moon_lev,w1nm,w1m,w2nm,w2m,w3nm,w3m,w4nm,w4m,dist,angle
+J005206.90-725216.5,13.0287633,-72.8712522,0.0656,0.0641,-0.004,14.335,0.029,37.5,3.358,14.463,0.044,24.8,1.39,12.849,,-0.5,0.8943,9.263,,0.2,1.02,1,0,0.0,0.0,0.0,0.0,-165,129,-14,118,dd00,1,21nn,AAUU,0000,47,47,47,47,0,20,0,20,8.680246,154.276592
